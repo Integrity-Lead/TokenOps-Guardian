@@ -1,0 +1,2 @@
+# TOKENOPS GUARDIAN INTERFACE COMPLIANCE
+# Native standard library dependencies only (time module). No external pip packages required.
