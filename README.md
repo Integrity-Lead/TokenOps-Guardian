@@ -34,4 +34,12 @@ python tokenops_guardian_gatekeeper.py
 ## Compliance & Governance
 Aligned under global enterprise risk standards to enforce idempotent budgeting boundaries across distributed agentic workflows.
 
-**Contact for Architecture Audits:** tech.lead.layer5.systems@gmail.com
+## 📬 Connectivity & Gateway
+For technical audits, strategic briefings, or infrastructure inquiries:
+
+*   **Live Infrastructure Endpoint:** [integrityleadlabs.com](https://integrityleadlabs.com) 🌐
+*   **Interactive Target Sandbox:** `POST https://integrityleadlabs.com`
+    *   *Payload Benchmark:* Send `{"value": 0.95}` via cURL to test the Layer 5 Active Enforcement boundary in real-time.
+*   **Corporate Communications:** tech.lead@integrityleadlabs.com
+
+*"Sovereignty is not an option; it is the infrastructure of the future."*
