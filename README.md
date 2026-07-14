@@ -125,8 +125,10 @@ By handling token counting and context array valuation directly in memory inside
 * **Secure API Evaluation Endpoint:** `POST https://integrityleadlabs.com`
 * **Infrastructure Inquiries:** tech.lead@integrityleadlabs.com
 
-* **Note:** I am the Principal Architect of the TokenOps Core Security specification. Drop an issue or commit a fork if you require low-latency memory allocation maps for sovereign enterprise financial gateways.
+  
+---
+ **Note:** I am the Principal Architect of the TokenOps Core Security specification. Drop an issue or commit a fork if you require low-latency memory allocation maps for sovereign enterprise financial gateways.
 
-
+---
 
 #### "Sovereignty is not an option; it is the infrastructure of the future."
